@@ -1,4 +1,3 @@
-````markdown
 # Suspicious Bank Transaction Detection Project
 
 This project focuses on detecting suspicious bank transactions by combining:
@@ -16,10 +15,6 @@ The repository is organized into **5 notebooks**, which implement a complete pip
 ## 1. Dataset Overview
 
 The original dataset is located at:
-
-```text
-data/bank_transactions_data.csv
-````
 
 It contains **2,512 records** with core transaction-related fields, including transaction dates, transaction amounts, merchants, devices, login attempts, account balance, and other banking activity features.
 
